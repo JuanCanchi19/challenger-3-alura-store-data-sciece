@@ -50,7 +50,7 @@ Se entrenaron dos modelos de clasificación:
 
 ---
 
-# 📊 Métricas de Evaluación
+#  Métricas de Evaluación
 
 Los modelos fueron evaluados utilizando:
 
